@@ -9,7 +9,7 @@
 # require 'faker'
 
 # puts 'Creating 10 fake wigs...'
-#10.times do
+# 10.times do
 #   wig = Wig.new(
 #     size: Faker::Number.decimal_part(digits: 2),
 #     color: "Faker::Color.hex_color",
